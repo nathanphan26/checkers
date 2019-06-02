@@ -1,0 +1,7 @@
+body .container .row:nth-child(even) .col-md-6.offset-md-3 .row .col:nth-child(even) {
+    background-color: black;
+}
+
+body .container .row:nth-child(odd) .col-md-6.offset-md-3 .row .col:nth-child(odd) {
+    background-color: black;
+}
